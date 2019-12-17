@@ -33,8 +33,8 @@ Technical and Interests
 
 ## Employment History
 ### Balfour Beatty Plc
-#### Digital Technology Director<small> | Jan 2020</small>
-TBC
+<!-- #### Digital Technology Director<small> | Jan 2020</small>
+TBC -->
 
 #### Director of IT Strategy & Data <small>| 2018 - Present</small>
 Balfour Beatty’s Director of IT Strategy and the architect of their automated project reporting system - Project on a Page (PoaP); the underlying Data Lake; and Data Strategy. With my previous role as Group Head of Financial Planning & Analysis, and earlier experience at PricewaterhouseCoopers, I bring high level business insight and acumen to drive a data-driven approach to construction.
