@@ -1,0 +1,62 @@
+# Project information
+site_name: James Veitch
+site_description: 'Curriculum Vitae'
+
+# Repository
+# repo_name: darth-veitcher/cv
+# repo_url: https://github.com/darth-veitcher/cv
+
+# GitHub Pages
+docs_dir: docs_src
+site_dir: docs
+
+# Nav
+nav:
+  - 'Curriculum Vitae': 'index.md'
+
+# Use the Material theme config
+# https://squidfunk.github.io/mkdocs-material/getting-started/
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  logo:
+    icon: 'assignment_ind'
+  palette:
+    primary: 'blue'  # indigo
+    accent: 'teal'  # indigo
+  font:
+    text: 'Abel'  # Ubuntu
+    code: 'Hackman'  # Ubuntu Mono
+
+# Customisation
+extra:
+  social:
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/jameskveitch/'
+
+# Extensions
+# https://squidfunk.github.io/mkdocs-material/extensions/pymdown/
+markdown_extensions:
+  - admonition
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+plugins:
+  - search
+  - minify:
+      minify_html: true
