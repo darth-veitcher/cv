@@ -53,9 +53,10 @@ Some of the critical areas of responsibility include:
 * Master Data Management, setting standards and governance requirements; and
 * Business Process Optimisation and re-design as necessary in order to facilitate data standards and capture as well as automate management information, actions and decisions from the resulting insight.
 
-#### Group Head of Financial Planning and Analysis <small>| Nov 2015 – Apr 2017</small>
-#### Senior Group Analytics Manager <small>| Jan 2015 – Nov 2015</small>
-#### Group Analytics Manager <small>| May 2014 – Jan 2015</small>
+#### Previous Roles
+* Group Head of Financial Planning and Analysis <small>| Nov 2015 – Apr 2017</small>
+* Senior Group Analytics Manager <small>| Jan 2015 – Nov 2015</small>
+* Group Analytics Manager <small>| May 2014 – Jan 2015</small>
 
 ### PricewaterhouseCoopers LLP
 #### Manager <small>| Sep 2004 – Dec 2011</small>
