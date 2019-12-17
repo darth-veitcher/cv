@@ -1,5 +1,5 @@
 ## Background and Introduction
-<img src="/img/James Veitch - compressed.JPG" width=100 style="float: left; padding: 0px 10px 5px 0px;">
+<img src="img/James Veitch - compressed.JPG" width=100 style="float: left; padding: 0px 10px 5px 0px;">
 
 I am a well-presented and highly motivated individual who enjoys analysing and solving business challenges using a blended combination of both financial accounting awareness and advanced IT skills in the most efficient manner. My background in external audit has allowed me to apply a rigorous scientific method approach to data analysis projects within businesses, ensuring transparency at all times.
 
